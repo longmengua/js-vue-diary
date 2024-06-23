@@ -1,5 +1,7 @@
 <template>
-  <Tutorial />
+  <div>
+    <DiaryComponent />
+  </div>
 </template>
 
 <script lang="ts">
